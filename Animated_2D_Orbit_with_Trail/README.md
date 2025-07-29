@@ -10,7 +10,7 @@ This project simulates the circular orbit of a planet around a star (like the Su
 
 ## 🔭 Physics Background
 This simulation is based on Newtonian gravitational force:
-$ F = \frac{G M m}{r^2}$
+$F = \frac{G M m}{r^2}$
 The resulting acceleration is used to update the planet’s velocity and position via the Euler method.
 
 Though simplified, it serves as a great starting point for:
