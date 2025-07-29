@@ -24,7 +24,7 @@ Though simplified, it serves as a great starting point for:
 - `numpy` (for numerical arrays and calculations)
 
 ## 📸 Demo
-![Orbit Screenshot](Animated-2D-Orbit-with-Trail.png)  
+![Orbit Screenshot](Animated_2D_Orbit_with_Trail/Animated 2D Orbit with Trail.png)  
 _(Replace this with your actual screenshot or GIF if uploaded)_
 
 ## ⚙️ Parameters
