@@ -19,9 +19,9 @@ Each simulation is placed in its own folder and includes:
 | [`2d_orbit_simulation/`](./2d_orbit_simulation/) | Static 2D orbit of a planet around the sun using Newtonian gravity |
 | [`Animated_2D_Orbit_with_Trail/`](./Animated_2D_Orbit_with_Trail/) | Animated simulation of a planet orbiting with a visual trail |
 | [`Gravitational_Light_Bending/`](./Gravitational_Light_Bending/) | Simulation of light rays bending due to gravity near a black hole |
-| [`Lorentz Transformation and Event Mapping in Special Relativity/`](./Lorentz Transformation and Event Mapping in Special Relativity/) |Simulation demonstrates how a fixed spacetime event transforms under Lorentz boosts as the observer's velocity increases|
----
+| [`Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/`](./Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/) | Simulation demonstrating how a fixed spacetime event transforms under Lorentz boosts as the observer's velocity increases |
 
+----
 ## 🛠️ Tools Used
 
 - Python 3.x
