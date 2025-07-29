@@ -14,12 +14,11 @@ Each simulation is placed in its own folder and includes:
 - 🧠 A `README.md` with a short explanation
 - ⚙️ Python-based code using NumPy & Matplotlib
 
-| Simulation | Description |
-|------------|-------------|
-| [`planetary_orbit/`](./planetary_orbit/) | 2D orbit of a planet around a star using Newtonian gravity |
-| [`light_bending/`](./light_bending/) | Gravitational light bending near a massive object |
-| [`static_orbit/`](./static_orbit/) | Static orbit visualization (simple circular motion) |
-| _More coming soon..._ | (Elliptical orbits, gravitational waves, etc.) |
+| Folder | Description |
+|--------|-------------|
+| [`2d_orbit_simulation/`](./2d_orbit_simulation/) | Static 2D orbit of a planet around the sun using Newtonian gravity |
+| [`Animated_2D_Orbit_with_Trail/`](./Animated_2D_Orbit_with_Trail/) | Animated simulation of a planet orbiting with a visual trail |
+| [`Gravitational_Light_Bending/`](./Gravitational_Light_Bending/) | Simulation of light rays bending due to gravity near a black hole |
 
 ---
 
@@ -34,10 +33,10 @@ Each simulation is placed in its own folder and includes:
 
 ## 🧠 Concepts Explored
 
-- Newtonian mechanics
-- Orbital dynamics
-- Relativistic effects (visual approximation)
-- Visualization and animation of physics systems
+- Newtonian Mechanics
+- Orbital Dynamics
+- Light Deflection by Gravity (Gravitational Lensing)
+- Data Visualization & Animation
 
 ---
 
@@ -46,15 +45,16 @@ Each simulation is placed in its own folder and includes:
 1. Clone or download this repo
 2. Open any simulation folder
 3. Run the `.ipynb` file using Jupyter Notebook or Google Colab
-4. Modify parameters to explore variations
+4. Modify parameters to explore different conditions
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm Malladi Aditya Naga Srinadh, an MSc Physics graduate deeply interested in **relativity**, **astrophysics**, and **computational physics**. This repository is my playground for self-learning, simulations, and possibly early research ideas.
+I'm Malladi Aditya Naga Srinadh, an MSc Physics graduate deeply interested in **relativity**, **astrophysics**, and **computational physics**.  
+This repository is a place for me to learn by doing — through code, thought experiments, and visual simulations.
 
-> 💬 Feel free to explore, fork, or suggest improvements. I'm learning as I go — and I welcome fellow curious minds.
+> 💬 Feel free to explore, fork, or suggest ideas. I welcome feedback and collaboration!
 
 ---
 
