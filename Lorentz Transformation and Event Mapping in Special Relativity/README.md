@@ -38,8 +38,8 @@ As velocity increases, the moving frame's perspective of where and when an event
 - Light cone structure visible and invariant
 
 ## 📽 Demo Screenshot
+![Lorentz Animation](Lorentz%20Transformation%20and%20Event%20Mapping%20in%20Special%20Relativity.png)
 
-![Lorentz Animation](Lorentz Transformation and Event Mapping in Special Relativity.png)
 
 ## 🔗 Interactive Use
 
