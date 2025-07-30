@@ -20,7 +20,7 @@ Each simulation is placed in its own folder and includes:
 | [`Animated_2D_Orbit_with_Trail/`](./Animated_2D_Orbit_with_Trail/) | Animated simulation of a planet orbiting with a visual trail |
 | [`Gravitational_Light_Bending/`](./Gravitational_Light_Bending/) | Simulation of light rays bending due to gravity near a black hole |
 | [`Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/`](./Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/) | Simulation demonstrating how a fixed spacetime event transforms under Lorentz boosts as the observer's velocity increases |
-
+|[`Cosmic_Scale_Factor_Simulation/`](./Cosmic_Scale_Factor_Simulation/)|A simulation visualizing the evolution of the cosmic scale factor over time in a ΛCDM universe.|
 ----
 ## 🛠️ Tools Used
 
