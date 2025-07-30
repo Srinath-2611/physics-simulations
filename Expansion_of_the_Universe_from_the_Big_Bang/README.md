@@ -8,7 +8,7 @@ This project simulates the expansion of the universe from just after the Big Ban
 
 ![Scale Factor Plot](Expansion_of_the_Universe_from_the_Big_Bang.png)
 
-The plot shows how the universe expanded from an extremely small scale factor to an accelerated phase driven by dark energy. The present time corresponds to \( a(t) = 1 \), approximately 13.8 Gyr after the Big Bang.
+The plot shows how the universe expanded from an extremely small scale factor to an accelerated phase driven by dark energy. The present time corresponds to $a(t) = 1$, approximately 13.8 Gyr after the Big Bang.
 
 ---
 
