@@ -21,8 +21,8 @@ This simulation models the evolution of the **cosmic scale factor a(t)** over ti
 - Matplotlib
 
 ## 📄 Files
-- `cosmic_scale_factor_simulation.ipynb` — Main simulation notebook
-- `cosmic_scale_factor_plot.png` — Output graph
+- `Cosmic_Scale_Factor_Simulation.ipynb` — Main simulation notebook
+- `Cosmic_Scale_Factor_Simulation.png` — Output graph
 - `Expansion_of_Space_and_Time_Report.pdf` — Detailed explanation and graph interpretation
 
 ## 🚀 Future Plans
