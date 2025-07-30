@@ -81,13 +81,13 @@ Expansion_of_the_Universe_from_the_Big_Bang.png
 - **Radiation era** (early universe): $a(t) \propto t^{1/2}$
 - **Matter era** (intermediate times): $a(t) \propto t^{2/3}$
 - **Dark energy era** (late times):  $a(t) \propto e^{Ht}$
-- At  $t \approx 13.8 \) Gyr, \( a(t) = 1$, matching the current age of the universe
+- At  $t \approx 13.8 Gyr$,  $a(t) = 1$, matching the current age of the universe
 
 ---
 
 ## 📄 LaTeX Report
 
-A scientific report `report.tex` is included. It provides:
+A scientific report `Expansion_of_the_Universe_from_the_Big_Bang.pdf` is included. It provides:
 - Equations and theory
 - Explanation of the numerical method
 - Analysis of the simulation result
