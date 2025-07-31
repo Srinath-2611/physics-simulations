@@ -1,3 +1,4 @@
+
 # Twin Paradox Simulation — Time Dilation Visualization
 
 This project simulates and visualizes the famous **twin paradox** from Einstein's theory of special relativity. It compares how time passes for two twins — one remaining on Earth and the other traveling at relativistic speeds — and highlights the effects of **time dilation**.
@@ -17,7 +18,7 @@ This simulation plots:
 ## 📊 Output
 The graph shows how the traveling twin’s time grows slower than Earth time, depending on velocity (β).
 
-![Twin Paradox Simulation Plot](Twin20%Paradox20%Simulation20%—%20Time20%Dilation20%Visualization.png)
+![Twin Paradox Simulation Plot](Twin_Paradox_Simulation20%—20%Time_Dilation_Visualization.png)
 
 This project simulates and visualizes the famous **twin paradox** from Einstein's theory of special relativity. It compares how time passes for two twins — one remaining on Earth and the other traveling at relativistic speeds — and highlights the effects of **time dilation**.
 
