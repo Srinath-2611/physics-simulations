@@ -22,6 +22,7 @@ Each simulation is placed in its own folder and includes:
 | [`Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/`](./Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/) | Simulation demonstrating how a fixed spacetime event transforms under Lorentz boosts as the observer's velocity increases |
 |[`Expansion_of_the_Universe_from_the_Big_Bang/`](./Expansion_of_the_Universe_from_the_Big_Bang/)|A simulation visualizing the evolution of the cosmic scale factor over time in a ΛCDM universe.|
 | [`Twin_Paradox_Simulation_—_Time_Dilation_Visualization/`](./Twin_Paradox_Simulation_—_Time_Dilation_Visualization/) | This project simulates and visualizes the famous **twin paradox** from Einstein's theory of special relativity. It compares how time passes for two twins — one remaining on Earth and the other traveling at relativistic speeds — and highlights the effects of **time dilation**. |
+| [`twin-paradox-simulation-slider/`](./twin-paradox-simulation-slider/) |This simulation visualizes the famous Twin Paradox scenario from special relativity using an interactive plot. One twin remains on Earth, while the other travels at a high speed and returns. The simulation dynamically shows how time dilation affects the traveling twin as their velocity increases.|
 ----
 ## 🛠️ Tools Used
 
