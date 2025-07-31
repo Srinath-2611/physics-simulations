@@ -1,62 +1,61 @@
-# 🪐 Physics Simulations in Python
+# 🌌 Srinath's Physics Simulations & Projects
 
-A personal collection of physics simulations written in Python — exploring classical mechanics, relativity, and astrophysical phenomena.  
-This project is part of my ongoing journey to understand physics through visualization, coding, and curiosity.
+Welcome to my personal GitHub repository! I'm Srinath, an MSc Physics student deeply curious about the universe. This space is dedicated to the simulations I’ve built while exploring classical mechanics, relativity, cosmology, and spacetime through code. Every project here is designed to be insightful, visually intuitive, and beginner-friendly.
+
+## 🔭 What You'll Find Here
+
+A growing collection of hand-crafted physics simulations powered by Python, NumPy, and Matplotlib — visualizing concepts ranging from planetary motion to cosmic expansion.
+
+- 🔬 Simulations grounded in real physics  
+- 🎨 Clean and clear visualizations  
+- 🧪 Jupyter Notebooks, runnable on Google Colab  
+- 📈 Interactive or animated where possible  
 
 ---
 
-## 📁 Simulations
-
-Each simulation is placed in its own folder and includes:
-
-- 📓 A Jupyter notebook (`.ipynb`)
-- 📊 Visual output (images, animations, or plots)
-- 🧠 A `README.md` with a short explanation
-- ⚙️ Python-based code using NumPy & Matplotlib
-
+## 📂 Simulations Included
 | Folder | Description |
 |--------|-------------|
 | [`2d_orbit_simulation/`](./2d_orbit_simulation/) | Static 2D orbit of a planet around the sun using Newtonian gravity |
 | [`Animated_2D_Orbit_with_Trail/`](./Animated_2D_Orbit_with_Trail/) | Animated simulation of a planet orbiting with a visual trail |
 | [`Gravitational_Light_Bending/`](./Gravitational_Light_Bending/) | Simulation of light rays bending due to gravity near a black hole |
-| [`Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/`](./Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/) | Simulation demonstrating how a fixed spacetime event transforms under Lorentz boosts as the observer's velocity increases |
-|[`Expansion_of_the_Universe_from_the_Big_Bang/`](./Expansion_of_the_Universe_from_the_Big_Bang/)|A simulation visualizing the evolution of the cosmic scale factor over time in a ΛCDM universe.|
-| [`Twin_Paradox_Simulation_—_Time_Dilation_Visualization/`](./Twin_Paradox_Simulation_—_Time_Dilation_Visualization/) | This project simulates and visualizes the famous **twin paradox** from Einstein's theory of special relativity. It compares how time passes for two twins — one remaining on Earth and the other traveling at relativistic speeds — and highlights the effects of **time dilation**. |
-| [`twin-paradox-simulation-slider/`](./twin-paradox-simulation-slider/) |This simulation visualizes the famous Twin Paradox scenario from special relativity using an interactive plot. One twin remains on Earth, while the other travels at a high speed and returns. The simulation dynamically shows how time dilation affects the traveling twin as their velocity increases.|
-----
-## 🛠️ Tools Used
+| [`Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/`](./Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/) | Shows how a fixed event in spacetime transforms under Lorentz boosts |
+| [`Expansion_of_the_Universe_from_the_Big_Bang/`](./Expansion_of_the_Universe_from_the_Big_Bang/) | A simulation visualizing the evolution of the cosmic scale factor over time in a ΛCDM universe. |
+| [`Twin_Paradox_Simulation_—_Time_Dilation_Visualization/`](./Twin_Paradox_Simulation_—_Time_Dilation_Visualization/) | Plots Earth frame time vs. traveling twin's proper time to illustrate time dilation |
+| [`twin-paradox-simulation-slider/`](./twin-paradox-simulation-slider/) | Interactive version of the Twin Paradox using a slider to adjust velocity |
 
-- Python 3.x
-- Jupyter Notebook / Google Colab
-- NumPy
-- Matplotlib
+## 🛠 How to Use
 
----
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Srinath-2611/physics-simulations.git
+   cd physics-simulations
+   ```
 
-## 🧠 Concepts Explored
+2. Open any folder and launch the Jupyter Notebook (`.ipynb`) using:
+   - Jupyter Notebook on your system
+   - **Google Colab** (recommended for animation support)
 
-- Newtonian Mechanics
-- Orbital Dynamics
-- Light Deflection by Gravity (Gravitational Lensing)
-- Data Visualization & Animation
+3. Run cells and experiment with parameters like mass, velocity, eccentricity, or cosmological constants.
 
 ---
 
-## 🚀 How to Use
 
-1. Clone or download this repo
-2. Open any simulation folder
-3. Run the `.ipynb` file using Jupyter Notebook or Google Colab
-4. Modify parameters to explore different conditions
+## 🤝 Contributions
+
+This is a personal portfolio, but if you're interested in collaborating, learning together, or just geeking out over physics and Python — feel free to fork, explore, or reach out.
 
 ---
 
-## 👨‍💻 About Me
+## 🙋 About Me
 
-I'm Malladi Aditya Naga Srinadh, an MSc Physics graduate deeply interested in **relativity**, **astrophysics**, and **computational physics**.  
-This repository is a place for me to learn by doing — through code, thought experiments, and visual simulations.
-
-> 💬 Feel free to explore, fork, or suggest ideas. I welcome feedback and collaboration!
+- 🔭 MSc Physics
+- 🤖 Passionate about AI + Physics
+- ✍️ Learning computational simulations one project at a time
 
 ---
 
+> _“Equations are not just numbers — they’re ideas brought to life.”_
+
+Thanks for visiting 🌠
+      
