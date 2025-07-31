@@ -34,10 +34,6 @@ This simulation plots:
 - NumPy
 - Matplotlib
 
-## 📊 Output
-The graph shows how the traveling twin’s time grows slower than Earth time, depending on velocity (β).
-
-![Twin Paradox Simulation Plot](Twin_Paradox_Simulation — Time_Dilation_Visualization.png)
 
 ## ✏️ Parameters You Can Experiment With
 - **β (beta)**: the speed of the traveling twin as a fraction of the speed of light (e.g., 0.5, 0.9, 0.99).
@@ -53,9 +49,6 @@ Modify the `beta` and `t_max` variables in the code to see how different speeds 
 ## 🧪 Educational Value
 This is a great entry-level simulation to understand the real physical consequences of time dilation and frame-dependent time in special relativity.
 
----
-
-.png)
 
 ## ✏️ Parameters You Can Experiment With
 - **β (beta)**: the speed of the traveling twin as a fraction of the speed of light (e.g., 0.5, 0.9, 0.99).
