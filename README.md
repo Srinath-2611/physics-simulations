@@ -24,6 +24,8 @@ A growing collection of hand-crafted physics simulations powered by Python, NumP
 | [`Twin_Paradox_Simulation_—_Time_Dilation_Visualization/`](./Twin_Paradox_Simulation_—_Time_Dilation_Visualization/) | Plots Earth frame time vs. traveling twin's proper time to illustrate time dilation |
 | [`twin-paradox-simulation-slider/`](./twin-paradox-simulation-slider/) | Interactive version of the Twin Paradox using a slider to adjust velocity |
 | [`Spacetime_Curvature_Around_a_Massive_Object/`](./Spacetime_Curvature_Around_a_Massive_Object/) | Simulation visualizing the curvature of spacetime around a massive object, with and without the bending of a light ray |
+| [`Spacetime_Curvature_Around_Earth/`](./Spacetime_Curvature_Around_Earth/) | Simulation visualizing the curvature of spacetime around The Earth |
+
 ## 🛠 How to Use
 
 1. Clone the repo:
