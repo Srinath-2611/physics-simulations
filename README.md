@@ -23,7 +23,7 @@ A growing collection of hand-crafted physics simulations powered by Python, NumP
 | [`Expansion_of_the_Universe_from_the_Big_Bang/`](./Expansion_of_the_Universe_from_the_Big_Bang/) | A simulation visualizing the evolution of the cosmic scale factor over time in a ΛCDM universe. |
 | [`Twin_Paradox_Simulation_—_Time_Dilation_Visualization/`](./Twin_Paradox_Simulation_—_Time_Dilation_Visualization/) | Plots Earth frame time vs. traveling twin's proper time to illustrate time dilation |
 | [`twin-paradox-simulation-slider/`](./twin-paradox-simulation-slider/) | Interactive version of the Twin Paradox using a slider to adjust velocity |
-
+| [`Spacetime_Curvature_Around_a_Massive_Object/`](./Spacetime_Curvature_Around_a_Massive_Object/) | Simulation visualizing the curvature of spacetime around a massive object, with and without the bending of a light ray |
 ## 🛠 How to Use
 
 1. Clone the repo:
