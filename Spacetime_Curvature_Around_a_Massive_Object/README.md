@@ -25,7 +25,7 @@ This simulation visually represents the curvature of spacetime around a massive 
 
 ![Spacetime Curvature](Spacetime_Curvature_Around_a_Massive_Object.png)
 
-![Spacetime Curvature with Light Ray](Spacetime_Curvature_Around_a_Massive_Objects(with_light_ray).png)
+![Spacetime Curvature with Light Ray](Spacetime_Curvature_Around_a_Massive_Objects_with_Light_Ray.png)
 
 ## Future Plans
 
