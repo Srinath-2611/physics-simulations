@@ -20,12 +20,13 @@ A growing collection of hand-crafted physics simulations powered by Python, NumP
 | [`Animated_2D_Orbit_with_Trail/`](./Animated_2D_Orbit_with_Trail/) | Animated simulation of a planet orbiting with a visual trail |
 | [`Gravitational_Light_Bending/`](./Gravitational_Light_Bending/) | Simulation of light rays bending due to gravity near a black hole |
 | [`Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/`](./Lorentz_Transformation_and_Event_Mapping_in_Special_Relativity/) | Shows how a fixed event in spacetime transforms under Lorentz boosts |
-| [`Expansion_of_the_Universe_from_the_Big_Bang/`](./Expansion_of_the_Universe_from_the_Big_Bang/) | A simulation visualizing the evolution of the cosmic scale factor over time in a ΛCDM universe. |
+| [`Expansion_of_the_Universe_from_the_Big_Bang/`](./Expansion_of_the_Universe_from_the_Big_Bang/) | A simulation visualizing the evolution of the cosmic scale factor over time in a ΛCDM universe |
 | [`Twin_Paradox_Simulation_—_Time_Dilation_Visualization/`](./Twin_Paradox_Simulation_—_Time_Dilation_Visualization/) | Plots Earth frame time vs. traveling twin's proper time to illustrate time dilation |
 | [`twin-paradox-simulation-slider/`](./twin-paradox-simulation-slider/) | Interactive version of the Twin Paradox using a slider to adjust velocity |
 | [`Spacetime_Curvature_Around_a_Massive_Object/`](./Spacetime_Curvature_Around_a_Massive_Object/) | Simulation visualizing the curvature of spacetime around a massive object, with and without the bending of a light ray |
 | [`Spacetime_Curvature_Around_Earth/`](./Spacetime_Curvature_Around_Earth/) | Simulation visualizing the curvature of spacetime around The Earth |
-
+| [`temperature-vs-scale-factor-in-expanding-universe/`](./temperature-vs-scale-factor-in-expanding-universe/) | Plots the inverse relationship between the universe’s temperature and scale factor, illustrating key thermal milestones during cosmic expansion |
+| [`Thermal_History_of_the_Universe_—_Temperature_vs_Time/`](./Thermal_History_of_the_Universe_—_Temperature_vs_Time/) | A log–log simulation of how the temperature of the universe evolved from the Big Bang to the present, highlighting key cosmic epochs and transitions|
 ## 🛠 How to Use
 
 1. Clone the repo:
