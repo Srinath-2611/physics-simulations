@@ -72,7 +72,7 @@ Here’s an example plot comparing the distances muons travel before decaying in
 
    * Plot histograms for both Earth and Muon frames.
    * Print survival percentages in both frames.
-   * Save an example plot (`example_plot.png`).
+   * Save an example plot.
 
 ---
 
