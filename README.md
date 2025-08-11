@@ -27,6 +27,7 @@ A growing collection of hand-crafted physics simulations powered by Python, NumP
 | [`Spacetime_Curvature_Around_Earth/`](./Spacetime_Curvature_Around_Earth/) | Simulation visualizing the curvature of spacetime around The Earth |
 | [`temperature-vs-scale-factor-in-expanding-universe/`](./temperature-vs-scale-factor-in-expanding-universe/) | Plots the inverse relationship between the universe’s temperature and scale factor, illustrating key thermal milestones during cosmic expansion |
 | [`Thermal_History_of_the_Universe_—_Temperature_vs_Time/`](./Thermal_History_of_the_Universe_—_Temperature_vs_Time/) | A log–log simulation of how the temperature of the universe evolved from the Big Bang to the present, highlighting key cosmic epochs and transitions|
+| [`Muon-Lifetime-or-Cosmic-Ray-Muon-Experiment/`](./Muon-Lifetime-or-Cosmic-Ray-Muon-Experiment/) |  Measures how special relativity’s time dilation allows fast-moving cosmic-ray muons to survive long enough to reach the Earth’s surface from the upper atmosphere|
 ## 🛠 How to Use
 
 1. Clone the repo:
