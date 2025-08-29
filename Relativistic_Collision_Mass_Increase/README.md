@@ -46,7 +46,7 @@ Here’s an example plot showing how the final rest mass increases with initial 
 
 
 
-**Plot Caption:** The X-axis represents the fraction of light speed \( v/c \), and the Y-axis represents the final rest mass \( M_\text{final} \) in units of \( m_0 \). As velocity increases, relativistic effects increase the total rest mass beyond the classical sum.
+**Plot Caption:** The X-axis represents the fraction of light speed  $v/c$, and the Y-axis represents the final rest mass $M_\text{final}$ in units of  $m_0$. As velocity increases, relativistic effects increase the total rest mass beyond the classical sum.
 
 ---
 
