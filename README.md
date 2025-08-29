@@ -28,6 +28,7 @@ A growing collection of hand-crafted physics simulations powered by Python, NumP
 | [`temperature-vs-scale-factor-in-expanding-universe/`](./temperature-vs-scale-factor-in-expanding-universe/) | Plots the inverse relationship between the universe’s temperature and scale factor, illustrating key thermal milestones during cosmic expansion |
 | [`Thermal_History_of_the_Universe_—_Temperature_vs_Time/`](./Thermal_History_of_the_Universe_—_Temperature_vs_Time/) | A log–log simulation of how the temperature of the universe evolved from the Big Bang to the present, highlighting key cosmic epochs and transitions|
 | [`Muon-Lifetime-or-Cosmic-Ray-Muon-Experiment/`](./Muon-Lifetime-or-Cosmic-Ray-Muon-Experiment/) |  Measures how special relativity’s time dilation allows fast-moving cosmic-ray muons to survive long enough to reach the Earth’s surface from the upper atmosphere|
+[`Relativistic_Collision_Mass_Increase/`](./Relativistic_Collision_Mass_Increase/) | Simulation showing how kinetic energy converts to rest mass during a relativistic collision of two particles |
 ## 🛠 How to Use
 
 1. Clone the repo:
